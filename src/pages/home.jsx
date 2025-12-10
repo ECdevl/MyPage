@@ -1,5 +1,11 @@
+import { Link, useNavigate } from 'react-router-dom';
 import './home.css'
 function Home() {
+    let navigate = useNavigate()
+    const to_projects = () => {
+        navigate("/projects");
+    }
+    
     
         return (
         <main>
@@ -9,7 +15,7 @@ function Home() {
             <p>Desarrollador autodidacta especializado en crear aplicaciones completas 
 desde cero.<br/> Transformo ideas en código funcional con Python, C# y ahora React.</p>
 <div className='buttonDiv'>
-<button>Ver Proyectos</button>
+<button onClick={to_projects}>Ver Proyectos</button>
 <button>Contacto</button>
 </div>
 </div>

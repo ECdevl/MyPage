@@ -26,11 +26,14 @@ main {
 p{
     color: #F0F6FC;
     font-size: large;
+    font-family: "Consolas";
     
 }
 
 h2{
     color: #8B949E;
+    font-family: 'Courier New', Courier, monospace;
+    
 }
 
 a{
@@ -48,5 +51,6 @@ button{
 
 h1{
     color: #89B4FA;
+    font-family: 'Courier New', Courier, monospace;
 }
 

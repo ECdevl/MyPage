@@ -1,7 +1,7 @@
 {
   "name": "vite-project",
   "private": true,
-  "homepage": "https://ECdevl.githun.io/MyPage",
+  "homepage": "https://ecdevl.github.io/MyPage",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
