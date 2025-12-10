@@ -1,0 +1,11 @@
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #161B22;
+    padding: 15px;
+}
+
+footer a{
+    font-size: large;
+}

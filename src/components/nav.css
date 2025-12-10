@@ -1,0 +1,30 @@
+nav{
+    display: flex;
+    align-items: center;
+    background-color: #161B22;
+    padding: 0px;
+    margin: 0px;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    
+    width: 100%;
+}
+
+nav ul li{
+    font-family: "Consolas";
+    
+    list-style: none;
+}
+nav ul li a{
+    color:#F0F6FC;
+    text-decoration: none;
+    
+}
+nav ul li a:hover{
+    color:#F0F6FC;
+    text-decoration: underline;
+    
+}
