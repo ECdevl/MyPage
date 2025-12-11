@@ -6,7 +6,7 @@ function Footer(){
             <h2>Contáctame</h2>
         </div>
         <div className='contact-data'>
-        <p>baroveroezequielb@gmail.com</p>
+        <p>Mi correo: baroveroezequielb@gmail.com</p>
         <hr/>
         <p>Mis repositorios de <a href='https://github.com/ECdevl?tab=repositories'>Github</a></p>
         <hr/>

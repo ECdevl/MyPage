@@ -9,15 +9,15 @@
     font-size: 25px;
 }
 
-main h1{
+#Home h1{
     font-size: 40px;
     margin-top: 60px;
 }
-main h2{
+#Home h2{
     margin-bottom: 50px;
 }
 
-main button{
+#Home button{
     width: 250px;
     border-radius: 4px;
     padding: 20px;

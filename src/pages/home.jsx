@@ -8,7 +8,7 @@ function Home() {
     
     
         return (
-        <main>
+        <main id="Home">
             <h1>Hola soy Ezequiel Barovero</h1>
             <h2>Python, C# & React Developer</h2>
             <div className='meDiv'>
@@ -16,7 +16,6 @@ function Home() {
 desde cero.<br/> Transformo ideas en código funcional con Python, C# y ahora React.</p>
 <div className='buttonDiv'>
 <button onClick={to_projects}>Ver Proyectos</button>
-<button>Contacto</button>
 </div>
 </div>
         </main>

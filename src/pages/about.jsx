@@ -82,11 +82,6 @@ function About() {
     </p>
   </div>
 
-  {/* Call to action */}
-  <div className="about-cta">
-    <p className="cta-text">¿Buscas un desarrollador comprometido y con ganas de aprender?</p>
-    <button className="cta-button">Hablemos</button>
-  </div>
 
 </section>
         );

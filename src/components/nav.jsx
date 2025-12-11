@@ -5,7 +5,9 @@ import { Link } from 'react-router-dom';
 function Nav() {
   return (
     <nav>
+      <h3>ECdev</h3>
         <ul>
+            
             <li><Link to={"/MyPage"}>Home</Link></li>
             <li><Link to={"/about"}>About</Link></li>
             <li><Link to={"/projects"}>Projects</Link></li>

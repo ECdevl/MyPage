@@ -5,7 +5,12 @@ nav{
     padding: 0px;
     margin: 0px;
 }
-
+nav h3{
+    font-family: Consolas;
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 30px;
+}
 nav ul{
     display: flex;
     justify-content: space-evenly;
